@@ -1,6 +1,6 @@
 {
-  "name": "limonte/php-adblock-parser",
-  "description": "PHP parser for Adblock Plus filters",
+  "name": "idealogica/php-adblock-parser",
+  "description": "PHP parser for Adblock Plus filters. A snapshot of abandoned limonte/php-adblock-parser",
   "keywords": [
     "adblock",
     "parser"
